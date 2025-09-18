@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xhahriyar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarahmad405@gmail.com)
 
@@ -29,14 +29,14 @@ Passionate about creating impactful solutions that drive measurable business res
 
 When I'm not coding, you can find me exploring new technologies, adopting a new habit, or enjoying a good cup of tea while reading a book from favorite books collection.
 
-We people say about me...
+--**We people say about me...**
 
-*Problem Solver
-*Quick Learner
-*Adaptable
-*Creative
-*Critical Thinker
-*Consistent
+**Problem Solver+
+Quick Learner+
+Adaptable+
+Creative+
+Critical Thinker+
+Consistent**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmani167&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -127,14 +127,14 @@ We people say about me...
 [![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-📈 Recent Projects Highlights
+**📈 Recent Projects Highlights**
 
-🖼️ Image Processing Tool: Building advanced 2D bin nesting solution reducing material waste in printing
-💰 Financial Management System: Developed comprehensive tracking platform for non-profit operations
-🏫 School Management Platform: Created educational system managing 300+ students across 5+ schools
-📋 Support Case System: Built application management reducing fraud by 60-70% with global search
-🏢 Property Sales Platform: Enhanced real estate system improving lead conversion by 30%
-🎓 Project Management Portal: Developed university system supporting 1,000+ students and faculty
+- **🖼️ Image Processing Tool**: Building advanced 2D bin nesting solution reducing material waste in printing
+- **💰 Financial Management System**: Developed comprehensive tracking platform for non-profit operations
+- **🏫 School Management Platform**: Created educational system managing 300+ students across 5+ schools
+- **📋 Support Case Management System**: Built application management reducing fraud by 60-70% with global search
+- **🏢 Property Sales Platform**: Enhanced real estate system improving lead conversion by 30%
+- **🎓 Project Management Portal**: Developed university system supporting 1,000+ students and faculty
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
@@ -142,7 +142,7 @@ We people say about me...
 
 ### 💡 Words of Wisdom
 > "Code is a story. If it's well-written, it's poetry. If not, the next dev will read it like a horror novel—and blame you for every sleepless night."  
-> **— Hassan Boukhari** (My Mentor - Project Manager)
+> **— Hassan Boukhari** (My Mentor & Project Manager)
 
 > 💡 "Demag ki Bati jgao" (Light up the mind!)  
 > **— My Sir**
