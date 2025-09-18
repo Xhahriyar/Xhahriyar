@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanmani167&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Xhahriyar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Xhahriyar?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaman-hassan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xhahriyar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarahmad405@gmail.com)
 
@@ -81,12 +81,12 @@ We people say about me...
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmanmani167&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmanmani167&layout=compact&langs_count=8&theme=radical&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xhahriyar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xhahriyar&layout=compact&langs_count=8&theme=radical&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanmani167&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xhahriyar&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 Achievements & Certifications
@@ -97,36 +97,44 @@ We people say about me...
 - 💼 **5+ Projects** completed successfully
 - 🌟 **Client Satisfaction Rate**: 99%
 
-## 🎯 Services I Offer
+## 🚀 Services I Offer
 
-```javascript
-const services = {
-    shopify: [
-        "Custom Theme Development",
-        "Shopify Plus Implementation",
-        "App Development & Integration",
-        "Performance Optimization",
-        "Store Migration & Setup"
-    ],
-    laravel: [
-        "Full Stack Web Development",
-        "API Development & Integration",
-        "Custom CMS Development",
-        "Database Design & Optimization",
-        "Third-party Integrations"
-    ],
-};
-```
+### 🛍️ Full-Stack Development
+- **Custom Solution Development** - Tailored applications built from scratch
+- **Database Design & Architecture** - Scalable data structures and optimization
+- **Build From Scratch or Enhancement** - New applications or improving existing ones
+- **End-to-End Development** - Complete project lifecycle management
+- **Legacy System Modernization** - Upgrading and refactoring existing codebases
 
-## 📈 Recent Projects Highlights
+### ⚙️ Backend Development
+- **API Development & Architecture** - RESTful API solutions
+- **Implement New Modules** - Adding functionality to existing applications
+- **Feature Development** - Custom features and business logic implementation
+- **Library Integration** - Third-party services and package implementations
+- **Microservices Architecture** - Scalable and maintainable backend systems
 
-- 🛒 **E-commerce Platform**: Built a multi-vendor Shopify Plus store with custom features
-- 🏢 **Enterprise CRM**: Developed a Laravel-based CRM system for 500+ users
-- 📱 **Mobile-First Store**: Created responsive Shopify themes with 95+ PageSpeed score
-- 🔗 **API Integration**: Connected multiple third-party services with Laravel applications
+### 🎨 Frontend Development
+- **Modern UI/UX Development** - Responsive and interactive user interfaces
+- **React & TypeScript Applications** - Scalable frontend solutions
+- **Mobile-First Design** - Optimized for all devices
+- **Component Library Development** - Reusable UI component systems
+- **Performance Optimization** - Fast-loading, efficient frontends
 
-[![View My Work](https://img.shields.io/badge/View_My_Work-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://shahriyarahmad.vercel.app#projects)
 ---
+
+## 💼 Ready to Work Together?
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfolio.com)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+📈 Recent Projects Highlights
+
+🖼️ Image Processing Tool: Building advanced 2D bin nesting solution reducing material waste in printing
+💰 Financial Management System: Developed comprehensive tracking platform for non-profit operations
+🏫 School Management Platform: Created educational system managing 300+ students across 5+ schools
+📋 Support Case System: Built application management reducing fraud by 60-70% with global search
+🏢 Property Sales Platform: Enhanced real estate system improving lead conversion by 30%
+🎓 Project Management Portal: Developed university system supporting 1,000+ students and faculty
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
@@ -134,7 +142,7 @@ const services = {
 
 ### 💡 Words of Wisdom
 > "Code is a story. If it's well-written, it's poetry. If not, the next dev will read it like a horror novel—and blame you for every sleepless night."  
-> **— Hassan Boukhari** (My Teacher)
+> **— Hassan Boukhari** (My Mentor - Project Manager)
 
 > 💡 "Demag ki Bati jgao" (Light up the mind!)  
 > **— My Sir**
