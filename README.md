@@ -127,7 +127,9 @@ Consistent**
 [![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-**📈 Recent Projects Highlights**
+---
+
+## 📈 Recent Projects Highlights**
 
 - **🖼️ Image Processing Tool**: Building advanced 2D bin nesting solution reducing material waste in printing
 - **💰 Financial Management System**: Developed comprehensive tracking platform for non-profit operations
@@ -135,6 +137,8 @@ Consistent**
 - **📋 Support Case Management System**: Built application management reducing fraud by 60-70% with global search
 - **🏢 Property Sales Platform**: Enhanced real estate system improving lead conversion by 30%
 - **🎓 Project Management Portal**: Developed university system supporting 1,000+ students and faculty
+
+--- 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
