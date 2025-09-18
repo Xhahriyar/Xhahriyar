@@ -46,7 +46,7 @@ Consistent**
 
 ### 🔧 **Full Web Application Development**
 - Full-stack web application development
-- Moderen,responsive and funcational UI
+- Modern responsive and funcational UI
 - RESTful API development
 - Database design and optimization
 - Third-party integrations
