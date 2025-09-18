@@ -129,7 +129,7 @@ Consistent**
 
 ---
 
-## 📈 Recent Projects Highlights**
+## 📈 Recent Projects Highlights
 
 - **🖼️ Image Processing Tool**: Building advanced 2D bin nesting solution reducing material waste in printing
 - **💰 Financial Management System**: Developed comprehensive tracking platform for non-profit operations
