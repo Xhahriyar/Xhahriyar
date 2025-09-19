@@ -123,9 +123,9 @@ Consistent**
 ---
 
 ## 💼 Ready to Work Together?
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfolio.com)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://shahriyarahmad.vercel.app)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://github.com/Xhahriyar))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarahmad405@gmail.com)
 
 ---
 
