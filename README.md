@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xhahriyar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarahmad405@gmail.com)
 
@@ -124,7 +124,7 @@ Consistent**
 
 ## 💼 Ready to Work Together?
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://shahriyarahmad.vercel.app)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriyar-ahmad-frontend-developer))
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriyar-ahmad-frontend-developer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyarahmad405@gmail.com)
 
 ---
